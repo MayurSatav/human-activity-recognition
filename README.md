@@ -12,4 +12,7 @@
 1. Download Require models and classes files
 
 * ![action_recognition_kinetics](https://github.com/opencv/opencv/blob/master/samples/data/dnn/action_recongnition_kinetics.txt)
-* ![resnet-34_kinetics.onnx]() 
+* ![resnet-34_kinetics.onnx]()
+
+## User Interface
+![user-interface-ss](https://github.com/MayurSatav/human-activity-recognition/blob/master/images/gui.png)
